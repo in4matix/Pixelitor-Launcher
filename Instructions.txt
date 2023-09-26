@@ -1,0 +1,26 @@
+
+
+
+
+1. Check installed Java version:
+
+$ java -version
+
+2. Install the required Java runtime:
+
+$ sudo apt-get install openjdk-17-jdk
+
+3. Copy Pixelitor-4.3.x.jar to your desired location, e.g. ~/home/me/Apps/
+
+4. Edit Pixelitor.sh with your favourite text editor and alter the path. Example: "/home/me/Apps/Pixelitor/Pixelitor-4.3.x.jar"
+
+5. Make Pixelitor.sh executable:
+
+$ chmod +x Pixelitor.sh (or, right click, properties, Permissions, tick "Allow executing file as a program")
+
+6. Edit pixelitor.desktop with your favourite text editor and alter the paths.
+
+7. Copy pixelitor.desktop to ~/home/me/.local/applications/
+
+
+

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Pixelitor
+Exec=/PATH/TO/PIXELITOR/Pixelitor.sh
+Icon=/PATH/TO/ICON/icon1.png
+Categories=Image Editor;
+Terminal=false
+Keywords=image editing;
+MimeType=application/x-pixelitor;
+
