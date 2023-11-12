@@ -20,7 +20,7 @@ $ chmod +x Pixelitor.sh (or, right click, properties, Permissions, tick "Allow e
 
 6. Edit pixelitor.desktop with your favourite text editor and alter the paths.
 
-7. Copy pixelitor.desktop to ~/home/me/.local/applications/
+7. Copy pixelitor.desktop to ~/home/me/.local/share/applications/
 
 
 
