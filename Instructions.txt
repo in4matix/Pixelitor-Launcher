@@ -1,6 +1,6 @@
 
 
-
+After downloading Pixelitor:
 
 1. Check installed Java version:
 
@@ -10,7 +10,7 @@ $ java -version
 
 $ sudo apt-get install openjdk-17-jdk
 
-3. Copy Pixelitor-4.3.x.jar to your desired location, e.g. ~/home/me/Apps/
+3. Copy Pixelitor-4.3.x.jar to your desired location, e.g. ~/home/me/Apps/ (Note: Replace x with the downloaded version, e.g. 4.3.1)
 
 4. Edit Pixelitor.sh with your favourite text editor and alter the path. Example: "/home/me/Apps/Pixelitor/Pixelitor-4.3.x.jar"
 
